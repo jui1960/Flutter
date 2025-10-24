@@ -1,5 +1,3 @@
-// import 'package:flutter/material.dart';
-// import 'package:flutter/material.dart';
 import 'package:flutter/material.dart';
 void main() {
 
@@ -19,9 +17,6 @@ class MyApp extends StatelessWidget {
           child: Text('hello world,flutter basic',style: TextStyle(fontSize: 50),),
         ),
       ),
-
-
-
     );
   }
 }
