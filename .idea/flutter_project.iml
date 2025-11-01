@@ -9,6 +9,18 @@
       <excludeFolder url="file://$MODULE_DIR$/second_class02/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/second_class02/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/second_class02/build" />
+      <excludeFolder url="file://$MODULE_DIR$/class_3_validation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/class_3_validation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/class_3_validation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/cls_1(basic)/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/cls_1(basic)/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/cls_1(basic)/build" />
+      <excludeFolder url="file://$MODULE_DIR$/cls_2(Log_in_page)/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/cls_2(Log_in_page)/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/cls_2(Log_in_page)/build" />
+      <excludeFolder url="file://$MODULE_DIR$/cls_4_note_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/cls_4_note_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/cls_4_note_app/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

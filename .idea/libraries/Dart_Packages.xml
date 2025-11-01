@@ -6,6 +6,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.13.0/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.13.0/lib" />
             </list>
           </value>
         </entry>
@@ -13,6 +14,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/boolean_selector-2.1.2/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/boolean_selector-2.1.2/lib" />
             </list>
           </value>
         </entry>
@@ -20,6 +22,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.4.0/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.4.0/lib" />
             </list>
           </value>
         </entry>
@@ -27,6 +30,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.2/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.2/lib" />
             </list>
           </value>
         </entry>
@@ -34,6 +38,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.1/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.1/lib" />
             </list>
           </value>
         </entry>
@@ -41,6 +46,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.8/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.8/lib" />
             </list>
           </value>
         </entry>
@@ -48,6 +54,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.3/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.3/lib" />
             </list>
           </value>
         </entry>
@@ -55,7 +62,6 @@
           <value>
             <list>
               <option value="$PROJECT_DIR$/../flutter/flutter_windows_3.35.2-stable/flutter/packages/flutter/lib" />
-              <option value="C:/flutter_windows_3.35.2-stable/flutter/packages/flutter/lib" />
             </list>
           </value>
         </entry>
@@ -63,6 +69,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-5.0.0/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-5.0.0/lib" />
             </list>
           </value>
         </entry>
@@ -70,7 +77,6 @@
           <value>
             <list>
               <option value="$PROJECT_DIR$/../flutter/flutter_windows_3.35.2-stable/flutter/packages/flutter_test/lib" />
-              <option value="C:/flutter_windows_3.35.2-stable/flutter/packages/flutter_test/lib" />
             </list>
           </value>
         </entry>
@@ -78,6 +84,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-11.0.2/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-11.0.2/lib" />
             </list>
           </value>
         </entry>
@@ -85,6 +92,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.10/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.10/lib" />
             </list>
           </value>
         </entry>
@@ -92,6 +100,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_testing-3.0.2/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_testing-3.0.2/lib" />
             </list>
           </value>
         </entry>
@@ -99,6 +108,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/lints-5.1.1/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/lints-5.1.1/lib" />
             </list>
           </value>
         </entry>
@@ -106,6 +116,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.17/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.17/lib" />
             </list>
           </value>
         </entry>
@@ -113,6 +124,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.11.1/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.11.1/lib" />
             </list>
           </value>
         </entry>
@@ -120,6 +132,14 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.16.0/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.16.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="nested">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/nested-1.0.0/lib" />
             </list>
           </value>
         </entry>
@@ -127,6 +147,14 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.1/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.1/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="provider">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.1.5+1/lib" />
             </list>
           </value>
         </entry>
@@ -134,7 +162,6 @@
           <value>
             <list>
               <option value="$PROJECT_DIR$/../flutter/flutter_windows_3.35.2-stable/flutter/bin/cache/pkg/sky_engine/lib" />
-              <option value="C:/flutter_windows_3.35.2-stable/flutter/bin/cache/pkg/sky_engine/lib" />
             </list>
           </value>
         </entry>
@@ -142,6 +169,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/source_span-1.10.1/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/source_span-1.10.1/lib" />
             </list>
           </value>
         </entry>
@@ -149,6 +177,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/stack_trace-1.12.1/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/stack_trace-1.12.1/lib" />
             </list>
           </value>
         </entry>
@@ -156,6 +185,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/stream_channel-2.1.4/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/stream_channel-2.1.4/lib" />
             </list>
           </value>
         </entry>
@@ -163,6 +193,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/string_scanner-1.4.1/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/string_scanner-1.4.1/lib" />
             </list>
           </value>
         </entry>
@@ -170,6 +201,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/term_glyph-1.2.2/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/term_glyph-1.2.2/lib" />
             </list>
           </value>
         </entry>
@@ -177,6 +209,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.7.6/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.7.6/lib" />
             </list>
           </value>
         </entry>
@@ -184,6 +217,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.2.0/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.2.0/lib" />
             </list>
           </value>
         </entry>
@@ -191,12 +225,37 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-15.0.2/lib" />
+              <option value="C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-15.0.2/lib" />
             </list>
           </value>
         </entry>
       </option>
     </properties>
     <CLASSES>
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.13.0/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/boolean_selector-2.1.2/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.4.0/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.2/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.1/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.8/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.3/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-5.0.0/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-11.0.2/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.10/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_testing-3.0.2/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/lints-5.1.1/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.17/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.11.1/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.16.0/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.1/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/source_span-1.10.1/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/stack_trace-1.12.1/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/stream_channel-2.1.4/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/string_scanner-1.4.1/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/term_glyph-1.2.2/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.7.6/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.2.0/lib" />
+      <root url="file://C:/Users/jahor/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-15.0.2/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.13.0/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/boolean_selector-2.1.2/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.4.0/lib" />
@@ -212,7 +271,9 @@
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.17/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.11.1/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.16.0/lib" />
+      <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/nested-1.0.0/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.1/lib" />
+      <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.1.5+1/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/source_span-1.10.1/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/stack_trace-1.12.1/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/stream_channel-2.1.4/lib" />
@@ -221,9 +282,6 @@
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.7.6/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.2.0/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-15.0.2/lib" />
-      <root url="file://C:/flutter_windows_3.35.2-stable/flutter/bin/cache/pkg/sky_engine/lib" />
-      <root url="file://C:/flutter_windows_3.35.2-stable/flutter/packages/flutter/lib" />
-      <root url="file://C:/flutter_windows_3.35.2-stable/flutter/packages/flutter_test/lib" />
       <root url="file://$PROJECT_DIR$/../flutter/flutter_windows_3.35.2-stable/flutter/bin/cache/pkg/sky_engine/lib" />
       <root url="file://$PROJECT_DIR$/../flutter/flutter_windows_3.35.2-stable/flutter/packages/flutter/lib" />
       <root url="file://$PROJECT_DIR$/../flutter/flutter_windows_3.35.2-stable/flutter/packages/flutter_test/lib" />

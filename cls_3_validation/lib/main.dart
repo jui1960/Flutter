@@ -2,8 +2,8 @@ import 'package:class_3_validation/HomeScreen.dart';
 import 'package:class_3_validation/SignIn.dart';
 import 'package:class_3_validation/SignUp.dart';
 import 'package:flutter/material.dart';
-import 'package:class_3_validation/SignIn.dart';
-import 'package:class_3_validation/SignUp.dart';
+// import 'package:class_3_validation/SignIn.dart';
+// import 'package:class_3_validation/SignUp.dart';
 
 import 'HomeScreen.dart';
 
